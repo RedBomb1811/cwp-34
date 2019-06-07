@@ -1,0 +1,19 @@
+{
+  "app": {
+    "port": 9001
+  },
+  "db": {
+    "name": "cwp-21",
+    "user": "GENIUS_DATABASE_12345",
+    "pass": "12345",
+    "options": {
+      "dialect": "mssql",
+      "host": "localhost",
+      "logging": false
+    }
+  },
+  "cookie": {
+    "key": "secret key",
+    "auth": "__auth_id"
+  }
+}
